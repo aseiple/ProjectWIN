@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 6982b91ab9838d441aff584e3071dd34
+timeCreated: 1497246085
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box01.Box0
+    100004: Box01.Box1
+    100006: Box01.Box2
+    100008: //RootNode
+    100010: Cylinder00
+    100012: Cylinder01
+    100014: Cylinder02
+    100016: Cylinder03
+    100018: Cylinder04
+    100020: Cylinder06
+    100022: Loft01
+    100024: Rectangle0
+    100026: Rectangle1
+    100028: Rectangle2
+    100030: Rectangle3
+    100032: Rectangle4
+    100034: Rectangle5
+    100036: Rectangle6
+    100038: Rectangle7
+    400000: Box01
+    400002: Box01.Box0
+    400004: Box01.Box1
+    400006: Box01.Box2
+    400008: //RootNode
+    400010: Cylinder00
+    400012: Cylinder01
+    400014: Cylinder02
+    400016: Cylinder03
+    400018: Cylinder04
+    400020: Cylinder06
+    400022: Loft01
+    400024: Rectangle0
+    400026: Rectangle1
+    400028: Rectangle2
+    400030: Rectangle3
+    400032: Rectangle4
+    400034: Rectangle5
+    400036: Rectangle6
+    400038: Rectangle7
+    2300000: Box01
+    2300002: Box01.Box0
+    2300004: Box01.Box1
+    2300006: Box01.Box2
+    2300008: Cylinder00
+    2300010: Cylinder01
+    2300012: Cylinder02
+    2300014: Cylinder03
+    2300016: Cylinder04
+    2300018: Cylinder06
+    2300020: Loft01
+    2300022: Rectangle0
+    2300024: Rectangle1
+    2300026: Rectangle2
+    2300028: Rectangle3
+    2300030: Rectangle4
+    2300032: Rectangle5
+    2300034: Rectangle6
+    2300036: Rectangle7
+    3300000: Box01
+    3300002: Box01.Box0
+    3300004: Box01.Box1
+    3300006: Box01.Box2
+    3300008: Cylinder00
+    3300010: Cylinder01
+    3300012: Cylinder02
+    3300014: Cylinder03
+    3300016: Cylinder04
+    3300018: Cylinder06
+    3300020: Loft01
+    3300022: Rectangle0
+    3300024: Rectangle1
+    3300026: Rectangle2
+    3300028: Rectangle3
+    3300030: Rectangle4
+    3300032: Rectangle5
+    3300034: Rectangle6
+    3300036: Rectangle7
+    4300000: Loft01
+    4300002: Rectangle0
+    4300004: Cylinder01
+    4300006: Rectangle2
+    4300008: Cylinder02
+    4300010: Cylinder03
+    4300012: Rectangle3
+    4300014: Cylinder06
+    4300016: Rectangle4
+    4300018: Rectangle5
+    4300020: Rectangle6
+    4300022: Box01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
